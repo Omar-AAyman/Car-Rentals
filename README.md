@@ -1,4 +1,4 @@
-# Car-Rentals-
+# Car-Rentals
 This is the first task for me using CSS
 
 Using only HTML, CSS languages
